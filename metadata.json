@@ -1,0 +1,10 @@
+{
+<<<<<<< HEAD
+  "name": "AI Code Review - Rewrite Agent",
+  "description": "A powerful developer tool that leverages Gemini AI to provide real-time code analysis, security auditing, performance optimization, and automated refactoring with an integrated assistant chat.",
+=======
+  "name": "AI Code agentgroq ",
+  "description": "An intelligent platform for real-time code analysis, bug detection, and automated refactoring powered by advanced LLMs.",
+>>>>>>> 3388560 (first commit)
+  "requestFramePermissions": []
+}
